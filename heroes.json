@@ -16,6 +16,10 @@
             {
                 "info": "see normal mode 10 ",
                 "level": 41
+            },
+            {
+                "info": "blue, earth",
+                "level": "Expedition"
             }
         ],
         "name": "alchemist"
@@ -32,13 +36,17 @@
     "archemedius": {
         "info": [
             {
+                "info": "blue, water",
+                "level": "Tavern"
+            },
+            {
                 "info": "blue, water, used to evolve mr. ms, also available in tavern shop ",
                 "level": 54
             }
         ],
         "name": "archemedius"
     },
-    "aung sun suki": {
+    "aung san suki": {
         "info": [
             {
                 "info": "see elite mode 17",
@@ -47,9 +55,13 @@
             {
                 "info": "blue, fire, used to evolve dr time, also available in tavern shop ",
                 "level": 67
+            },
+            {
+                "info": "blue, fire",
+                "level": "Tavern"
             }
         ],
-        "name": "aung sun suki"
+        "name": "aung san suki"
     },
     "bear hunter": {
         "info": [
@@ -73,6 +85,10 @@
             {
                 "info": "see elite mode 31",
                 "level": 126
+            },
+            {
+                "info": "blue, lightning",
+                "level": "Tavern"
             }
         ],
         "name": "bell iv"
@@ -103,6 +119,10 @@
             {
                 "info": "blue, order, used to evolve mahatma ",
                 "level": 47
+            },
+            {
+                "info": "blue, order",
+                "level": "Expedition"
             }
         ],
         "name": "blessed teresa"
@@ -112,6 +132,10 @@
             {
                 "info": "blue, fire, will evolve with the use of steam man, also available in arena shop ",
                 "level": 42
+            },
+            {
+                "info": "blue, fire",
+                "level": "Arena"
             }
         ],
         "name": "bloody mary"
@@ -125,6 +149,10 @@
             {
                 "info": "see elite mode 45",
                 "level": 120
+            },
+            {
+                "info": "blue, chaos",
+                "level": "Arena"
             }
         ],
         "name": "bloody nero"
@@ -134,6 +162,10 @@
             {
                 "info": "blue, lightning, used to evolve silent star, also available in tavern shop ",
                 "level": 71
+            },
+            {
+                "info": "blue, lightning",
+                "level": "Tavern"
             }
         ],
         "name": "bright wizard"
@@ -173,6 +205,10 @@
             {
                 "info": "blue, fire, used to evolve PFK, also available in expedition shop ",
                 "level": 36
+            },
+            {
+                "info": "blue, fire",
+                "level": "Expedition"
             }
         ],
         "name": "che"
@@ -186,6 +222,10 @@
             {
                 "info": "see elite mode 42",
                 "level": 112
+            },
+            {
+                "info": "purple, fire",
+                "level": "Arena"
             }
         ],
         "name": "cleopatra"
@@ -203,6 +243,10 @@
             {
                 "info": "see normal mode 25 ",
                 "level": 39
+            },
+            {
+                "info": "blue, water",
+                "level": "Arena"
             }
         ],
         "name": "clonebus"
@@ -221,24 +265,36 @@
             {
                 "info": "blue, earth, used to evolve bear hunter, also available in arena shop ",
                 "level": 73
+            },
+            {
+                "info": "blue, earth",
+                "level": "Arena"
             }
         ],
         "name": "czarina"
     },
-    "d.vixni": {
+    "d.vinxi": {
         "info": [
             {
                 "info": "purple, earth, already evolved, can obtain blue fragments from tavern shop ",
                 "level": 49
+            },
+            {
+                "info": "blue, earth",
+                "level": "Tavern"
             }
         ],
-        "name": "d.vixni"
+        "name": "d.vinxi"
     },
     "desert fox": {
         "info": [
             {
                 "info": "blue, chaos, used to evolve terrible laden, also available in tavern shop ",
                 "level": 85
+            },
+            {
+                "info": "blue, chaos",
+                "level": "Tavern"
             }
         ],
         "name": "desert fox"
@@ -269,6 +325,10 @@
             {
                 "info": "blue, lightning, used to evolve king arthur, also available in arena shop ",
                 "level": 9
+            },
+            {
+                "info": "blue, lightning",
+                "level": "Arena"
             }
         ],
         "name": "dreamer martin"
@@ -278,6 +338,10 @@
             {
                 "info": "blue, lightning, used to evolve tanitrus Benjamin, also available in expedition shop ",
                 "level": 66
+            },
+            {
+                "info": "blue, lightning",
+                "level": "Expedition"
             }
         ],
         "name": "dreamlover"
@@ -300,6 +364,10 @@
             {
                 "info": "blue, lightning, used to evolve ra elementalist, also available in expedition shop ",
                 "level": 40
+            },
+            {
+                "info": "blue, lightning",
+                "level": "Expedition"
             }
         ],
         "name": "dugout doug"
@@ -353,6 +421,10 @@
             {
                 "info": "blue, fire, used to evolve master blaster, also available in expedition shop ",
                 "level": 72
+            },
+            {
+                "info": "blue, fire",
+                "level": "Expedition"
             }
         ],
         "name": "flying man"
@@ -378,6 +450,15 @@
         ],
         "name": "fort"
     },
+    "founding father": {
+        "info": [
+            {
+                "info": "purple, lightning",
+                "level": "Arena"
+            }
+        ],
+        "name": "founding father"
+    },
     "gali.gary": {
         "info": [
             {
@@ -387,6 +468,10 @@
             {
                 "info": "blue, fire, used to evolve e.turing, also available in expedition shop ",
                 "level": 43
+            },
+            {
+                "info": "blue, fire",
+                "level": "Expedition"
             }
         ],
         "name": "gali.gary"
@@ -400,6 +485,10 @@
             {
                 "info": "purple, earth, already evolved, can obtain blue fragments from expedition shop ",
                 "level": 48
+            },
+            {
+                "info": "blue, earth",
+                "level": "Expedition"
             }
         ],
         "name": "great peter"
@@ -409,6 +498,10 @@
             {
                 "info": "purple, earth, will evolve with the use of uncrowned queen and joan, also available in tavern shop ",
                 "level": 98
+            },
+            {
+                "info": "purple, earth",
+                "level": "Tavern"
             }
         ],
         "name": "honest abe"
@@ -422,6 +515,10 @@
             {
                 "info": "see elite mode 3",
                 "level": 108
+            },
+            {
+                "info": "blue, earth",
+                "level": "Tavern"
             }
         ],
         "name": "iori female"
@@ -461,9 +558,22 @@
             {
                 "info": "purple, earth, will evolve with the use of bear hunter and mr. ms, used to evolve alexander, also available in expedition shop",
                 "level": 118
+            },
+            {
+                "info": "purple, earth",
+                "level": "Expedition"
             }
         ],
         "name": "july.caesar"
+    },
+    "kim": {
+        "info": [
+            {
+                "info": "purple, water",
+                "level": "Expedition"
+            }
+        ],
+        "name": "kim"
     },
     "king arthur": {
         "info": [
@@ -474,6 +584,10 @@
             {
                 "info": "see elite mode 7",
                 "level": 102
+            },
+            {
+                "info": "blue, fire",
+                "level": "Arena"
             }
         ],
         "name": "king arthur"
@@ -495,6 +609,10 @@
             {
                 "info": "see normal mode 35 ",
                 "level": 103
+            },
+            {
+                "info": "blue, earth",
+                "level": "Arena"
             }
         ],
         "name": "king of oil"
@@ -551,6 +669,10 @@
             {
                 "info": "blue, fire, used to evolve spartacus, also available in expedition shop ",
                 "level": 13
+            },
+            {
+                "info": "blue, fire",
+                "level": "Expedition"
             }
         ],
         "name": "louise xxiv"
@@ -590,6 +712,10 @@
             {
                 "info": "blue, earth, used to evolve shinzo, also available in tavern shop ",
                 "level": 12
+            },
+            {
+                "info": "blue, earth",
+                "level": "Tavern"
             }
         ],
         "name": "marco"
@@ -616,6 +742,10 @@
             {
                 "info": "blue, water, used to evolve lee, also available in expedition shop ",
                 "level": 84
+            },
+            {
+                "info": "blue, water",
+                "level": "Expedition"
             }
         ],
         "name": "master kung"
@@ -633,6 +763,10 @@
             {
                 "info": "blue, water, used to evolve clonebus, also available in the arena shop ",
                 "level": 44
+            },
+            {
+                "info": "blue, water",
+                "level": "Arena"
             }
         ],
         "name": "maurya emperor"
@@ -646,6 +780,10 @@
             {
                 "info": "blue, earth, used to evolve uncrowned queen, also available in expedition shop ",
                 "level": 45
+            },
+            {
+                "info": "blue, earth",
+                "level": "Expedition"
             }
         ],
         "name": "middle class hero"
@@ -689,6 +827,10 @@
             {
                 "info": "see elite mode 14",
                 "level": 119
+            },
+            {
+                "info": "blue, water",
+                "level": "Expedition"
             }
         ],
         "name": "nobunaga"
@@ -724,6 +866,10 @@
             {
                 "info": "purple, earth, will evolve with the use of great peter and d.vixni, used to evolve elizabeth, also available in expedition shop",
                 "level": 148
+            },
+            {
+                "info": "purple, earth",
+                "level": "Expedition"
             }
         ],
         "name": "poet william"
@@ -776,6 +922,10 @@
             {
                 "info": "blue, water, used to evolve mulan, also available in tavern shop ",
                 "level": 59
+            },
+            {
+                "info": "blue, water",
+                "level": "Tavern"
             }
         ],
         "name": "shogun i"
@@ -789,6 +939,10 @@
             {
                 "info": "blue, lightning, will evolve with the use of bright wizard, also available in arena shop ",
                 "level": 30
+            },
+            {
+                "info": "blue, lightning",
+                "level": "Arena"
             }
         ],
         "name": "silent star"
@@ -815,11 +969,24 @@
             {
                 "info": "see elite mode 2",
                 "level": 127
+            },
+            {
+                "info": "blue, fire",
+                "level": "Expedition"
             }
         ],
         "name": "steam man"
     },
-    "tanitrus benjamin  ": {
+    "symphony.d": {
+        "info": [
+            {
+                "info": "purple, fire",
+                "level": "Expedition"
+            }
+        ],
+        "name": "symphony.d"
+    },
+    "tanitrus benjamin": {
         "info": [
             {
                 "info": "see normal mode 31",
@@ -828,6 +995,10 @@
             {
                 "info": "blue, lightning, will evolve with the use of dreamlover, also available in tavern shop ",
                 "level": 31
+            },
+            {
+                "info": "blue, lightning",
+                "level": "Tavern"
             }
         ],
         "name": "tanitrus benjamin"
@@ -871,6 +1042,10 @@
             {
                 "info": "blue, lightning, used to evolve corsican monster, also available in arena shop ",
                 "level": 8
+            },
+            {
+                "info": "blue, lightning",
+                "level": "Arena"
             }
         ],
         "name": "tesla trooper"
@@ -888,6 +1063,10 @@
             {
                 "info": "blue, earth, used to evolve king of oil, also available in tavern shop ",
                 "level": 16
+            },
+            {
+                "info": "blue, earth",
+                "level": "Tavern"
             }
         ],
         "name": "the unknown actor"
@@ -906,6 +1085,10 @@
             {
                 "info": "purple, water, will evolve with the use of mulan and fat.chill, used to evolve fat.chill, also available in tavern shop",
                 "level": 149
+            },
+            {
+                "info": "purple, water",
+                "level": "Tavern"
             }
         ],
         "name": "uncle joe"
@@ -919,6 +1102,10 @@
             {
                 "info": "see elite mode 19",
                 "level": 109
+            },
+            {
+                "info": "blue, water",
+                "level": "Expedition"
             }
         ],
         "name": "uncrowned queen"
@@ -932,6 +1119,10 @@
             {
                 "info": "blue, order, used to evolve joan, also available in tavern shop ",
                 "level": 15
+            },
+            {
+                "info": "blue, order",
+                "level": "Tavern"
             }
         ],
         "name": "w.wallace"
