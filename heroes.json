@@ -1,792 +1,939 @@
 {
-  "e.turing": {
-    "name": "e.turing",
-    "info": [
-      {
-        "level": 51,
-        "info": "blue, lightning, will evolve with the use of gali.gary "
-      }
-    ]
-  },
-  "steam man": {
-    "name": "steam man",
-    "info": [
-      {
-        "level": 52,
-        "info": "blue, fire, used to evolve bloody mary, also available in expedition shop "
-      }
-    ]
-  },
-  "iori female": {
-    "name": "iori female",
-    "info": [
-      {
-        "level": 53,
-        "info": "blue, earth, used to evolve tutanAmon, also available in tavern shop "
-      }
-    ]
-  },
-  "archemedius": {
-    "name": "archemedius",
-    "info": [
-      {
-        "level": 54,
-        "info": "blue, water, used to evolve mr. ms, also available in tavern shop "
-      }
-    ]
-  },
-  "lucky Charlie": {
-    "name": "lucky Charlie",
-    "info": [
-      {
-        "level": 55,
-        "info": "blue, chaos, will evolve with the use of terrible ivan "
-      }
-    ]
-  },
-  "ra elementalist": {
-    "name": "ra elementalist",
-    "info": [
-      {
-        "level": 56,
-        "info": "purple, lightning, already evolved, can obtain blue fragments in normal 28 "
-      },
-      {
-        "level": 28,
-        "info": "blue, lightning, will evolve with the use of dugout doug "
-      }
-    ]
-  },
-  "king Arthur": {
-    "name": "king Arthur",
-    "info": [
-      {
-        "level": 57,
-        "info": "blue, fire, will evolve with the use of dreamer martin, also available in arena shop "
-      }
-    ]
-  },
-  "lee": {
-    "name": "lee",
-    "info": [
-      {
-        "level": 58,
-        "info": "blue, earth, will evolve with the use of master kung "
-      }
-    ]
-  },
-  "shogun I": {
-    "name": "shogun I",
-    "info": [
-      {
-        "level": 59,
-        "info": "blue, water, used to evolve mulan, also available in tavern shop "
-      }
-    ]
-  },
-  "jack": {
-    "name": "jack",
-    "info": [
-      {
-        "level": 60,
-        "info": "blue, chaos, will evolve with the use of cannibal "
-      }
-    ]
-  },
-  "dreamer martin": {
-    "name": "dreamer martin",
-    "info": [
-      {
-        "level": 61,
-        "info": "see normal mode 9 "
-      },
-      {
-        "level": 9,
-        "info": "blue, lightning, used to evolve king arthur, also available in arena shop "
-      }
-    ]
-  },
-  "little dipper": {
-    "name": "little dipper",
-    "info": [
-      {
-        "level": 62,
-        "info": "purple, fire, will evolve with the use of corsican monster and e.turing "
-      }
-    ]
-  },
-  "tutanAmon": {
-    "name": "tutanAmon",
-    "info": [
-      {
-        "level": 63,
-        "info": "blue, earth, will evolve with the use of iroi female "
-      }
-    ]
-  },
-  "nobunaga": {
-    "name": "nobunaga",
-    "info": [
-      {
-        "level": 64,
-        "info": "blue, water, used to evolve great peter, also available in expedition shop "
-      }
-    ]
-  },
-  "terrible laden": {
-    "name": "terrible laden",
-    "info": [
-      {
-        "level": 65,
-        "info": "see normal mode 22 "
-      },
-      {
-        "level": 22,
-        "info": "blue, chaos, will evolve with the use of desert fox "
-      }
-    ]
-  },
-  "dreamlover": {
-    "name": "dreamlover",
-    "info": [
-      {
-        "level": 66,
-        "info": "blue, lightning, used to evolve tanitrus Benjamin, also available in expedition shop "
-      }
-    ]
-  },
-  "aung sun suki": {
-    "name": "aung sun suki",
-    "info": [
-      {
-        "level": 67,
-        "info": "blue, fire, used to evolve dr time, also available in tavern shop "
-      }
-    ]
-  },
-  "king of oil": {
-    "name": "king of oil",
-    "info": [
-      {
-        "level": 68,
-        "info": "purple, earth, already evolved, can obtain blue fragments in normal mode 35, elite 33, and arena shop "
-      },
-      {
-        "level": 83,
-        "info": "see normal mode 35 "
-      },
-      {
-        "level": 35,
-        "info": "blue, earth, will evolve with the use of unknown actor, also available in arena shop "
-      }
-    ]
-  },
-  "uncrowned queen": {
-    "name": "uncrowned queen",
-    "info": [
-      {
-        "level": 69,
-        "info": "blue, water, will evolve with the use of middle class hero, also available in expedition shop "
-      }
-    ]
-  },
-  "king of the huns": {
-    "name": "king of the huns",
-    "info": [
-      {
-        "level": 70,
-        "info": "see normal mode 24 "
-      },
-      {
-        "level": 24,
-        "info": "blue, chaos, will evolve with the use of bloody nero "
-      }
-    ]
-  },
-  "bright wizard": {
-    "name": "bright wizard",
-    "info": [
-      {
-        "level": 71,
-        "info": "blue, lightning, used to evolve silent star, also available in tavern shop "
-      }
-    ]
-  },
-  "flying man": {
-    "name": "flying man",
-    "info": [
-      {
-        "level": 72,
-        "info": "blue, fire, used to evolve master blaster, also available in expedition shop "
-      }
-    ]
-  },
-  "czarina": {
-    "name": "czarina",
-    "info": [
-      {
-        "level": 73,
-        "info": "blue, earth, used to evolve bear hunter, also available in arena shop "
-      }
-    ]
-  },
-  "shinzo": {
-    "name": "shinzo",
-    "info": [
-      {
-        "level": 74,
-        "info": "purple, water, already evolved, can obtain blue fragments in normal mode 27 "
-      },
-      {
-        "level": 27,
-        "info": "blue, water, will evolve with the use of marco "
-      }
-    ]
-  },
-  "w.wallace": {
-    "name": "w.wallace",
-    "info": [
-      {
-        "level": 75,
-        "info": "see normal mode 15 "
-      },
-      {
-        "level": 15,
-        "info": "blue, order, used to evolve joan, also available in tavern shop "
-      }
-    ]
-  },
-  "tesla trooper": {
-    "name": "tesla trooper",
-    "info": [
-      {
-        "level": 76,
-        "info": "see normal mode 8 "
-      },
-      {
-        "level": 8,
-        "info": "blue, lightning, used to evolve corsican monster, also available in arena shop "
-      }
-    ]
-  },
-  "\"che\"": {
-    "name": "\"che\"",
-    "info": [
-      {
-        "level": 77,
-        "info": "see normal mode 36 "
-      },
-      {
-        "level": 36,
-        "info": "blue, fire, used to evolve PFK, also available in expedition shop "
-      }
-    ]
-  },
-  "the unkown actor": {
-    "name": "the unkown actor",
-    "info": [
-      {
-        "level": 78,
-        "info": "see normal mode 16 "
-      },
-      {
-        "level": 16,
-        "info": "blue, earth, used to evolve king of oil, also available in tavern shop "
-      }
-    ]
-  },
-  "mr ms": {
-    "name": "mr ms",
-    "info": [
-      {
-        "level": 79,
-        "info": "see normal mode 19 "
-      }
-    ]
-  },
-  "fat.chill": {
-    "name": "fat.chill",
-    "info": [
-      {
-        "level": 80,
-        "info": "purple, order, will evolve with the use of peace man and uncle joe "
-      }
-    ]
-  },
-  "bell iv": {
-    "name": "bell iv",
-    "info": [
-      {
-        "level": 81,
-        "info": "blue, lightning, used to evolve fort, also available in tavern shop "
-      }
-    ]
-  },
-  "luise xxiv": {
-    "name": "luise xxiv",
-    "info": [
-      {
-        "level": 82,
-        "info": "see normal mode 13 "
-      }
-    ]
-  },
-  "master kung": {
-    "name": "master kung",
-    "info": [
-      {
-        "level": 84,
-        "info": "blue, water, used to evolve lee, also available in expedition shop "
-      }
-    ]
-  },
-  "desert fox": {
-    "name": "desert fox",
-    "info": [
-      {
-        "level": 85,
-        "info": "blue, chaos, used to evolve terrible laden, also available in tavern shop "
-      }
-    ]
-  },
-  "catholic hero": {
-    "name": "catholic hero",
-    "info": [
-      {
-        "level": 86,
-        "info": "purple, lightning, will evolve with the use of silent star and master blaster "
-      }
-    ]
-  },
-  "pfk": {
-    "name": "pfk",
-    "info": [
-      {
-        "level": 87,
-        "info": "see normal mode 20 "
-      },
-      {
-        "level": 20,
-        "info": "blue, fire, will evolve with the use of \"che\" "
-      }
-    ]
-  },
-  "alchemist": {
-    "name": "alchemist",
-    "info": [
-      {
-        "level": 88,
-        "info": "see normal mode 10 "
-      },
-      {
-        "level": 10,
-        "info": "blue, earth, used to evolve d.vixni, also available in expedition shop "
-      },
-      {
-        "level": 41,
-        "info": "see normal mode 10 "
-      }
-    ]
-  },
-  "maurya emperor": {
-    "name": "maurya emperor",
-    "info": [
-      {
-        "level": 89,
-        "info": "see normal mode 44 "
-      },
-      {
-        "level": 44,
-        "info": "blue, water, used to evolve clonebus, also available in the arena shop "
-      }
-    ]
-  },
-  "blessed Teresa": {
-    "name": "blessed Teresa",
-    "info": [
-      {
-        "level": 90,
-        "info": "see normal mode 47 "
-      },
-      {
-        "level": 47,
-        "info": "blue, order, used to evolve mahatma "
-      }
-    ]
-  },
-  "dr time": {
-    "name": "dr time",
-    "info": [
-      {
-        "level": 91,
-        "info": "see normal mode 21 "
-      },
-      {
-        "level": 21,
-        "info": "blue, lightning, will evolve with the use of aung sun suki "
-      }
-    ]
-  },
-  "cleopatra": {
-    "name": "cleopatra",
-    "info": [
-      {
-        "level": 92,
-        "info": "purple, fire, will evolve with the use of pfk and king arthur, also available in arena shop "
-      }
-    ]
-  },
-  "marco": {
-    "name": "marco",
-    "info": [
-      {
-        "level": 93,
-        "info": "see normal mode 12 "
-      },
-      {
-        "level": 12,
-        "info": "blue, earth, used to evolve shinzo, also available in tavern shop "
-      }
-    ]
-  },
-  "blackbeard": {
-    "name": "blackbeard",
-    "info": [
-      {
-        "level": 94,
-        "info": "see normal mode 11 "
-      }
-    ]
-  },
-  "bloody nero": {
-    "name": "bloody nero",
-    "info": [
-      {
-        "level": 95,
-        "info": "blue, chaos, used to evolve kinf of the huns, also available in arena shop "
-      }
-    ]
-  },
-  "fort": {
-    "name": "fort",
-    "info": [
-      {
-        "level": 96,
-        "info": "see normal mode 17 "
-      },
-      {
-        "level": 17,
-        "info": "blue, lightning, will evolve with the use of bell iv "
-      }
-    ]
-  },
-  "master blaster": {
-    "name": "master blaster",
-    "info": [
-      {
-        "level": 97,
-        "info": "see normal mode 26 "
-      },
-      {
-        "level": 26,
-        "info": "blue, fire, will evolve with the use of flying man "
-      }
-    ]
-  },
-  "honest abe": {
-    "name": "honest abe",
-    "info": [
-      {
-        "level": 98,
-        "info": "purple, earth, will evolve with the use of uncrowned queen and joan, also available in tavern shop "
-      }
-    ]
-  },
-  "empress wu": {
-    "name": "empress wu",
-    "info": [
-      {
-        "level": 99,
-        "info": "purple, water, will evolve with the use of alexander and king of oil "
-      }
-    ]
-  },
-  "Elizabeth": {
-    "name": "Elizabeth",
-    "info": [
-      {
-        "level": 100,
-        "info": "purple, order, will evolve with the use of mahatma and poet william"
-      }
-    ]
-  },
-  "repairman": {
-    "name": "repairman",
-    "info": [
-      {
-        "level": "1",
-        "info": "green, not used for much, and you will pass by him very early, I do not recommend farming "
-      }
-    ]
-  },
-  "diver": {
-    "name": "diver",
-    "info": [
-      {
-        "level": "2",
-        "info": "another green you will pass by quickly "
-      }
-    ]
-  },
-  "policeman": {
-    "name": "policeman",
-    "info": [
-      {
-        "level": "3",
-        "info": "green "
-      }
-    ]
-  },
-  "cowboy": {
-    "name": "cowboy",
-    "info": [
-      {
-        "level": "4",
-        "info": "green "
-      }
-    ]
-  },
-  "sniper": {
-    "name": "sniper",
-    "info": [
-      {
-        "level": "5",
-        "info": "green "
-      }
-    ]
-  },
-  "tank": {
-    "name": "tank",
-    "info": [
-      {
-        "level": "6",
-        "info": "green "
-      }
-    ]
-  },
-  "secret agent": {
-    "name": "secret agent",
-    "info": [
-      {
-        "level": "7",
-        "info": "green "
-      }
-    ]
-  },
-  "black beard": {
-    "name": "black beard",
-    "info": [
-      {
-        "level": "11",
-        "info": "blue, water, will evolve to purple with the use of drw "
-      }
-    ]
-  },
-  "louise xxiv": {
-    "name": "louise xxiv",
-    "info": [
-      {
-        "level": "13",
-        "info": "blue, fire, used to evolve spartacus, also available in expedition shop "
-      }
-    ]
-  },
-  "drw": {
-    "name": "drw",
-    "info": [
-      {
-        "level": "14",
-        "info": "blue, water, used to evolve black beard "
-      }
-    ]
-  },
-  "bear hunter": {
-    "name": "bear hunter",
-    "info": [
-      {
-        "level": "18",
-        "info": "blue, earth, will evolve with the use of czarina "
-      }
-    ]
-  },
-  "mr. ms": {
-    "name": "mr. ms",
-    "info": [
-      {
-        "level": "19",
-        "info": "blue, water, will evolve with the use of archemedius "
-      }
-    ]
-  },
-  "joan": {
-    "name": "joan",
-    "info": [
-      {
-        "level": "23",
-        "info": "blue, order, will evolve with the use of w.wallace "
-      },
-      {
-        "level": 32,
-        "info": "see normal mode 23 "
-      }
-    ]
-  },
-  "clonebus": {
-    "name": "clonebus",
-    "info": [
-      {
-        "level": "25",
-        "info": "blue, water, will evolve with the use of maurya emperor, also available in arena shop "
-      },
-      {
-        "level": 39,
-        "info": "see normal mode 25 "
-      }
-    ]
-  },
-  "cannibal": {
-    "name": "cannibal",
-    "info": [
-      {
-        "level": "29",
-        "info": "blue, chaos, used to evolve jack "
-      }
-    ]
-  },
-  "silent star": {
-    "name": "silent star",
-    "info": [
-      {
-        "level": "30",
-        "info": "blue, lightning, will evolve with the use of bright wizard, also available in arena shop "
-      }
-    ]
-  },
-  "tantitrus Benjamin": {
-    "name": "tantitrus Benjamin",
-    "info": [
-      {
-        "level": "31",
-        "info": "blue, lightning, will evolve with the use of dreamlover, also available in tavern shop "
-      }
-    ]
-  },
-  "corsican monster": {
-    "name": "corsican monster",
-    "info": [
-      {
-        "level": "33",
-        "info": "blue, fire, will evolve with the use of tesla trooper "
-      }
-    ]
-  },
-  "mahatma": {
-    "name": "mahatma",
-    "info": [
-      {
-        "level": "34",
-        "info": "blue, order, will evolve with the use of blessed teresa "
-      }
-    ]
-  },
-  "Spartacus": {
-    "name": "Spartacus",
-    "info": [
-      {
-        "level": "37",
-        "info": "blue, fire, will evolve with the use of louise xxiv "
-      }
-    ]
-  },
-  "mulan": {
-    "name": "mulan",
-    "info": [
-      {
-        "level": "38",
-        "info": "blue, water, will evolve with the use of shogun i "
-      }
-    ]
-  },
-  "dugout doug": {
-    "name": "dugout doug",
-    "info": [
-      {
-        "level": "40",
-        "info": "blue, lightning, used to evolve ra elementalist, also available in expedition shop "
-      }
-    ]
-  },
-  "bloody mary": {
-    "name": "bloody mary",
-    "info": [
-      {
-        "level": "42",
-        "info": "blue, fire, will evolve with the use of steam man, also available in arena shop "
-      }
-    ]
-  },
-  "gali.gary": {
-    "name": "gali.gary",
-    "info": [
-      {
-        "level": "43",
-        "info": "blue, fire, used to evolve e.turing, also available in expedition shop "
-      }
-    ]
-  },
-  "middle class hero": {
-    "name": "middle class hero",
-    "info": [
-      {
-        "level": "45",
-        "info": "blue, earth, used to evolve uncrowned queen, also available in expedition shop "
-      }
-    ]
-  },
-  "terrible ivan": {
-    "name": "terrible ivan",
-    "info": [
-      {
-        "level": "46",
-        "info": "blue, chaos, used to evolve lucky charlie "
-      }
-    ]
-  },
-  "great peter": {
-    "name": "great peter",
-    "info": [
-      {
-        "level": "48",
-        "info": "purple, earth, already evolved, can obtain blue fragments from expedition shop "
-      }
-    ]
-  },
-  "d.vixni": {
-    "name": "d.vixni",
-    "info": [
-      {
-        "level": "49",
-        "info": "purple, earth, already evolved, can obtain blue fragments from tavern shop "
-      }
-    ]
-  },
-  "peace man": {
-    "name": "peace man",
-    "info": [
-      {
-        "level": "50",
-        "info": "purple, order, will evolve with American bison, fat.chill, and joan"
-      }
-    ]
-  }
+    "alchemist": {
+        "info": [
+            {
+                "info": "see normal mode 10 ",
+                "level": 88
+            },
+            {
+                "info": "see normal mode 10",
+                "level": 123
+            },
+            {
+                "info": "blue, earth, used to evolve d.vixni, also available in expedition shop ",
+                "level": 10
+            },
+            {
+                "info": "see normal mode 10 ",
+                "level": 41
+            }
+        ],
+        "name": "alchemist"
+    },
+    "alexander": {
+        "info": [
+            {
+                "info": "purple, water, will evolve with the use of july.caesar and blackbeard, used to evolve empress wu",
+                "level": 124
+            }
+        ],
+        "name": "alexander"
+    },
+    "archemedius": {
+        "info": [
+            {
+                "info": "blue, water, used to evolve mr. ms, also available in tavern shop ",
+                "level": 54
+            }
+        ],
+        "name": "archemedius"
+    },
+    "aung sun suki": {
+        "info": [
+            {
+                "info": "see elite mode 17",
+                "level": 147
+            },
+            {
+                "info": "blue, fire, used to evolve dr time, also available in tavern shop ",
+                "level": 67
+            }
+        ],
+        "name": "aung sun suki"
+    },
+    "bear hunter": {
+        "info": [
+            {
+                "info": "see normal mode 18",
+                "level": 128
+            },
+            {
+                "info": "blue, earth, will evolve with the use of czarina ",
+                "level": 18
+            }
+        ],
+        "name": "bear hunter"
+    },
+    "bell iv": {
+        "info": [
+            {
+                "info": "blue, lightning, used to evolve fort, also available in tavern shop ",
+                "level": 81
+            },
+            {
+                "info": "see elite mode 31",
+                "level": 126
+            }
+        ],
+        "name": "bell iv"
+    },
+    "blackbeard": {
+        "info": [
+            {
+                "info": "blue, water, will evolve to purple with the use of drw ",
+                "level": 11
+            },
+            {
+                "info": "see normal mode 11 ",
+                "level": 94
+            },
+            {
+                "info": "see normal mode 11",
+                "level": 129
+            }
+        ],
+        "name": "blackbeard"
+    },
+    "blessed teresa": {
+        "info": [
+            {
+                "info": "see normal mode 47 ",
+                "level": 90
+            },
+            {
+                "info": "blue, order, used to evolve mahatma ",
+                "level": 47
+            }
+        ],
+        "name": "blessed teresa"
+    },
+    "bloody mary": {
+        "info": [
+            {
+                "info": "blue, fire, will evolve with the use of steam man, also available in arena shop ",
+                "level": 42
+            }
+        ],
+        "name": "bloody mary"
+    },
+    "bloody nero": {
+        "info": [
+            {
+                "info": "blue, chaos, used to evolve king of the huns, also available in arena shop ",
+                "level": 95
+            },
+            {
+                "info": "see elite mode 45",
+                "level": 120
+            }
+        ],
+        "name": "bloody nero"
+    },
+    "bright wizard": {
+        "info": [
+            {
+                "info": "blue, lightning, used to evolve silent star, also available in tavern shop ",
+                "level": 71
+            }
+        ],
+        "name": "bright wizard"
+    },
+    "cannibal": {
+        "info": [
+            {
+                "info": "see normal mode 29",
+                "level": 145
+            },
+            {
+                "info": "blue, chaos, used to evolve jack ",
+                "level": 29
+            }
+        ],
+        "name": "cannibal"
+    },
+    "catholic hero": {
+        "info": [
+            {
+                "info": "purple, lightning, will evolve with the use of silent star and master blaster ",
+                "level": 86
+            }
+        ],
+        "name": "catholic hero"
+    },
+    "che": {
+        "info": [
+            {
+                "info": "see normal mode 36",
+                "level": 132
+            },
+            {
+                "info": "see normal mode 36 ",
+                "level": 77
+            },
+            {
+                "info": "blue, fire, used to evolve PFK, also available in expedition shop ",
+                "level": 36
+            }
+        ],
+        "name": "che"
+    },
+    "cleopatra": {
+        "info": [
+            {
+                "info": "purple, fire, will evolve with the use of pfk and king arthur, also available in arena shop ",
+                "level": 92
+            },
+            {
+                "info": "see elite mode 42",
+                "level": 112
+            }
+        ],
+        "name": "cleopatra"
+    },
+    "clonebus": {
+        "info": [
+            {
+                "info": "see normal mode 25",
+                "level": 139
+            },
+            {
+                "info": "blue, water, will evolve with the use of maurya emperor, also available in arena shop ",
+                "level": 25
+            },
+            {
+                "info": "see normal mode 25 ",
+                "level": 39
+            }
+        ],
+        "name": "clonebus"
+    },
+    "corsican monster": {
+        "info": [
+            {
+                "info": "blue, fire, will evolve with the use of tesla trooper ",
+                "level": 33
+            }
+        ],
+        "name": "corsican monster"
+    },
+    "czarina": {
+        "info": [
+            {
+                "info": "blue, earth, used to evolve bear hunter, also available in arena shop ",
+                "level": 73
+            }
+        ],
+        "name": "czarina"
+    },
+    "d.vixni": {
+        "info": [
+            {
+                "info": "purple, earth, already evolved, can obtain blue fragments from tavern shop ",
+                "level": 49
+            }
+        ],
+        "name": "d.vixni"
+    },
+    "desert fox": {
+        "info": [
+            {
+                "info": "blue, chaos, used to evolve terrible laden, also available in tavern shop ",
+                "level": 85
+            }
+        ],
+        "name": "desert fox"
+    },
+    "dr time": {
+        "info": [
+            {
+                "info": "see normal mode 21 ",
+                "level": 91
+            },
+            {
+                "info": "blue, lightning, will evolve with the use of aung sun suki ",
+                "level": 21
+            }
+        ],
+        "name": "dr time"
+    },
+    "dreamer martin": {
+        "info": [
+            {
+                "info": "see normal mode 9 ",
+                "level": 61
+            },
+            {
+                "info": "see normal mode 9",
+                "level": 131
+            },
+            {
+                "info": "blue, lightning, used to evolve king arthur, also available in arena shop ",
+                "level": 9
+            }
+        ],
+        "name": "dreamer martin"
+    },
+    "dreamlover": {
+        "info": [
+            {
+                "info": "blue, lightning, used to evolve tanitrus Benjamin, also available in expedition shop ",
+                "level": 66
+            }
+        ],
+        "name": "dreamlover"
+    },
+    "drw": {
+        "info": [
+            {
+                "info": "blue, water, used to evolve black beard ",
+                "level": 14
+            }
+        ],
+        "name": "drw"
+    },
+    "dugout doug": {
+        "info": [
+            {
+                "info": "see normal mode 40",
+                "level": 121
+            },
+            {
+                "info": "blue, lightning, used to evolve ra elementalist, also available in expedition shop ",
+                "level": 40
+            }
+        ],
+        "name": "dugout doug"
+    },
+    "e.turing": {
+        "info": [
+            {
+                "info": "blue, lightning, will evolve with the use of gali.gary ",
+                "level": 51
+            },
+            {
+                "info": "see elite mode 1",
+                "level": 111
+            }
+        ],
+        "name": "e.turing"
+    },
+    "elizabeth": {
+        "info": [
+            {
+                "info": "purple, order, will evolve with the use of mahatma and poet william",
+                "level": 100
+            }
+        ],
+        "name": "elizabeth"
+    },
+    "empress wu": {
+        "info": [
+            {
+                "info": "purple, water, will evolve with the use of alexander and king of oil ",
+                "level": 99
+            }
+        ],
+        "name": "empress wu"
+    },
+    "fat.chill": {
+        "info": [
+            {
+                "info": "purple, order, will evolve with the use of peace man and uncle joe ",
+                "level": 80
+            },
+            {
+                "info": "purple, order, will evolve with the use of peace man and uncle joe, used to evolve uncle joe and american bison",
+                "level": 130
+            }
+        ],
+        "name": "fat.chill"
+    },
+    "flying man": {
+        "info": [
+            {
+                "info": "blue, fire, used to evolve master blaster, also available in expedition shop ",
+                "level": 72
+            }
+        ],
+        "name": "flying man"
+    },
+    "fort": {
+        "info": [
+            {
+                "info": "see normal mode 17 ",
+                "level": 96
+            },
+            {
+                "info": "purple, lightning, already evolved, used to evolve founding father, can obtain blue fragments in normal 17, elite 46, or legend 41",
+                "level": 106
+            },
+            {
+                "info": "see normal mode 17",
+                "level": 141
+            },
+            {
+                "info": "blue, lightning, will evolve with the use of bell iv ",
+                "level": 17
+            }
+        ],
+        "name": "fort"
+    },
+    "gali.gary": {
+        "info": [
+            {
+                "info": "see normal mode 43",
+                "level": 137
+            },
+            {
+                "info": "blue, fire, used to evolve e.turing, also available in expedition shop ",
+                "level": 43
+            }
+        ],
+        "name": "gali.gary"
+    },
+    "great peter": {
+        "info": [
+            {
+                "info": "blue, earth, will evolve with the use of nobunaga, can obtain purple fragments in normal 48",
+                "level": 138
+            },
+            {
+                "info": "purple, earth, already evolved, can obtain blue fragments from expedition shop ",
+                "level": 48
+            }
+        ],
+        "name": "great peter"
+    },
+    "honest abe": {
+        "info": [
+            {
+                "info": "purple, earth, will evolve with the use of uncrowned queen and joan, also available in tavern shop ",
+                "level": 98
+            }
+        ],
+        "name": "honest abe"
+    },
+    "iori female": {
+        "info": [
+            {
+                "info": "blue, earth, used to evolve tutanAmon, also available in tavern shop ",
+                "level": 53
+            },
+            {
+                "info": "see elite mode 3",
+                "level": 108
+            }
+        ],
+        "name": "iori female"
+    },
+    "jack": {
+        "info": [
+            {
+                "info": "blue, chaos, will evolve with the use of cannibal ",
+                "level": 60
+            },
+            {
+                "info": "see elite mode 10",
+                "level": 105
+            }
+        ],
+        "name": "jack"
+    },
+    "joan": {
+        "info": [
+            {
+                "info": "see general mode 23",
+                "level": 125
+            },
+            {
+                "info": "blue, order, will evolve with the use of w.wallace ",
+                "level": 23
+            },
+            {
+                "info": "see normal mode 23 ",
+                "level": 32
+            }
+        ],
+        "name": "joan"
+    },
+    "july.caesar": {
+        "info": [
+            {
+                "info": "purple, earth, will evolve with the use of bear hunter and mr. ms, used to evolve alexander, also available in expedition shop",
+                "level": 118
+            }
+        ],
+        "name": "july.caesar"
+    },
+    "king arthur": {
+        "info": [
+            {
+                "info": "blue, fire, will evolve with the use of dreamer martin, also available in arena shop ",
+                "level": 57
+            },
+            {
+                "info": "see elite mode 7",
+                "level": 102
+            }
+        ],
+        "name": "king arthur"
+    },
+    "king of oil": {
+        "info": [
+            {
+                "info": "purple, earth, already evolved, can obtain blue fragments in normal mode 35, elite 33, and arena shop ",
+                "level": 68
+            },
+            {
+                "info": "see normal mode 35 ",
+                "level": 83
+            },
+            {
+                "info": "blue, earth, will evolve with the use of unknown actor, also available in arena shop ",
+                "level": 35
+            },
+            {
+                "info": "see normal mode 35 ",
+                "level": 103
+            }
+        ],
+        "name": "king of oil"
+    },
+    "king of the huns": {
+        "info": [
+            {
+                "info": "see normal mode 24 ",
+                "level": 70
+            },
+            {
+                "info": "see normal mode 24",
+                "level": 135
+            },
+            {
+                "info": "blue, chaos, will evolve with the use of bloody nero ",
+                "level": 24
+            }
+        ],
+        "name": "king of the huns"
+    },
+    "lee": {
+        "info": [
+            {
+                "info": "blue, earth, will evolve with the use of master kung ",
+                "level": 58
+            },
+            {
+                "info": "see elite mode 8",
+                "level": 133
+            }
+        ],
+        "name": "lee"
+    },
+    "little dipper": {
+        "info": [
+            {
+                "info": "purple, fire, will evolve with the use of corsican monster and e.turing ",
+                "level": 62
+            }
+        ],
+        "name": "little dipper"
+    },
+    "louise xxiv": {
+        "info": [
+            {
+                "info": "see normal mode 13",
+                "level": 117
+            },
+            {
+                "info": "see normal mode 13 ",
+                "level": 82
+            },
+            {
+                "info": "blue, fire, used to evolve spartacus, also available in expedition shop ",
+                "level": 13
+            }
+        ],
+        "name": "louise xxiv"
+    },
+    "lucky charlie": {
+        "info": [
+            {
+                "info": "blue, chaos, will evolve with the use of terrible ivan ",
+                "level": 55
+            }
+        ],
+        "name": "lucky charlie"
+    },
+    "mahatma": {
+        "info": [
+            {
+                "info": "see normal mode 34",
+                "level": 140
+            },
+            {
+                "info": "purple, order, already evolved, used to evolve elizabeth, can obtain blue fragments in normal 34 or legend 40",
+                "level": 150
+            },
+            {
+                "info": "blue, order, will evolve with the use of blessed teresa ",
+                "level": 34
+            }
+        ],
+        "name": "mahatma"
+    },
+    "marco": {
+        "info": [
+            {
+                "info": "see normal mode 12 ",
+                "level": 93
+            },
+            {
+                "info": "blue, earth, used to evolve shinzo, also available in tavern shop ",
+                "level": 12
+            }
+        ],
+        "name": "marco"
+    },
+    "master blaster": {
+        "info": [
+            {
+                "info": "see normal mode 26 ",
+                "level": 97
+            },
+            {
+                "info": "see normal mode 26",
+                "level": 122
+            },
+            {
+                "info": "blue, fire, will evolve with the use of flying man ",
+                "level": 26
+            }
+        ],
+        "name": "master blaster"
+    },
+    "master kung": {
+        "info": [
+            {
+                "info": "blue, water, used to evolve lee, also available in expedition shop ",
+                "level": 84
+            }
+        ],
+        "name": "master kung"
+    },
+    "maurya emperor": {
+        "info": [
+            {
+                "info": "see normal mode 44 ",
+                "level": 89
+            },
+            {
+                "info": "see normal mode 44",
+                "level": 104
+            },
+            {
+                "info": "blue, water, used to evolve clonebus, also available in the arena shop ",
+                "level": 44
+            }
+        ],
+        "name": "maurya emperor"
+    },
+    "middle class hero": {
+        "info": [
+            {
+                "info": "see normal mode 45",
+                "level": 113
+            },
+            {
+                "info": "blue, earth, used to evolve uncrowned queen, also available in expedition shop ",
+                "level": 45
+            }
+        ],
+        "name": "middle class hero"
+    },
+    "mr. ms": {
+        "info": [
+            {
+                "info": "see normal mode 19",
+                "level": 134
+            },
+            {
+                "info": "see normal mode 19 ",
+                "level": 79
+            },
+            {
+                "info": "blue, water, will evolve with the use of archemedius ",
+                "level": 19
+            }
+        ],
+        "name": "mr. ms"
+    },
+    "mulan": {
+        "info": [
+            {
+                "info": "see normal mode 38",
+                "level": 114
+            },
+            {
+                "info": "blue, water, will evolve with the use of shogun i ",
+                "level": 38
+            }
+        ],
+        "name": "mulan"
+    },
+    "nobunaga": {
+        "info": [
+            {
+                "info": "blue, water, used to evolve great peter, also available in expedition shop ",
+                "level": 64
+            },
+            {
+                "info": "see elite mode 14",
+                "level": 119
+            }
+        ],
+        "name": "nobunaga"
+    },
+    "peace man": {
+        "info": [
+            {
+                "info": "purple, order, will evolve with American bison, fat.chill, and joan",
+                "level": 50
+            }
+        ],
+        "name": "peace man"
+    },
+    "pfk": {
+        "info": [
+            {
+                "info": "see normal mode 20 ",
+                "level": 87
+            },
+            {
+                "info": "purple, fire, already evolved, used to evolve social pres and cleopatra, can obtain blue fragments in normal 20 and elite 37",
+                "level": 142
+            },
+            {
+                "info": "blue, fire, will evolve with the use of che ",
+                "level": 20
+            }
+        ],
+        "name": "pfk"
+    },
+    "poet william": {
+        "info": [
+            {
+                "info": "purple, earth, will evolve with the use of great peter and d.vixni, used to evolve elizabeth, also available in expedition shop",
+                "level": 148
+            }
+        ],
+        "name": "poet william"
+    },
+    "ra elementalist": {
+        "info": [
+            {
+                "info": "purple, lightning, already evolved, can obtain blue fragments in normal 28 ",
+                "level": 56
+            },
+            {
+                "info": "see normal mode 28",
+                "level": 101
+            },
+            {
+                "info": "blue, lightning, will evolve with the use of dugout doug ",
+                "level": 28
+            }
+        ],
+        "name": "ra elementalist"
+    },
+    "rock god": {
+        "info": [
+            {
+                "info": "purple, lightning, will evolve with the use of tunitrus benjamin and dr. time",
+                "level": 136
+            }
+        ],
+        "name": "rock god"
+    },
+    "shinzo": {
+        "info": [
+            {
+                "info": "purple, water, already evolved, can obtain blue fragments in normal mode 27 ",
+                "level": 74
+            },
+            {
+                "info": "see normal mode 27",
+                "level": 144
+            },
+            {
+                "info": "blue, water, will evolve with the use of marco ",
+                "level": 27
+            }
+        ],
+        "name": "shinzo"
+    },
+    "shogun i": {
+        "info": [
+            {
+                "info": "blue, water, used to evolve mulan, also available in tavern shop ",
+                "level": 59
+            }
+        ],
+        "name": "shogun i"
+    },
+    "silent star": {
+        "info": [
+            {
+                "info": "see normal mode 30",
+                "level": 116
+            },
+            {
+                "info": "blue, lightning, will evolve with the use of bright wizard, also available in arena shop ",
+                "level": 30
+            }
+        ],
+        "name": "silent star"
+    },
+    "spartacus": {
+        "info": [
+            {
+                "info": "see general mode 37",
+                "level": 107
+            },
+            {
+                "info": "blue, fire, will evolve with the use of louise xxiv ",
+                "level": 37
+            }
+        ],
+        "name": "spartacus"
+    },
+    "steam man": {
+        "info": [
+            {
+                "info": "blue, fire, used to evolve bloody mary, also available in expedition shop ",
+                "level": 52
+            },
+            {
+                "info": "see elite mode 2",
+                "level": 127
+            }
+        ],
+        "name": "steam man"
+    },
+    "tanitrus benjamin  ": {
+        "info": [
+            {
+                "info": "see normal mode 31",
+                "level": 146
+            },
+            {
+                "info": "blue, lightning, will evolve with the use of dreamlover, also available in tavern shop ",
+                "level": 31
+            }
+        ],
+        "name": "tanitrus benjamin"
+    },
+    "terrible ivan": {
+        "info": [
+            {
+                "info": "see normal mode 46",
+                "level": 115
+            },
+            {
+                "info": "blue, chaos, used to evolve lucky charlie ",
+                "level": 46
+            }
+        ],
+        "name": "terrible ivan"
+    },
+    "terrible laden": {
+        "info": [
+            {
+                "info": "see normal mode 22 ",
+                "level": 65
+            },
+            {
+                "info": "see normal mode 22",
+                "level": 110
+            },
+            {
+                "info": "blue, chaos, will evolve with the use of desert fox ",
+                "level": 22
+            }
+        ],
+        "name": "terrible laden"
+    },
+    "tesla trooper": {
+        "info": [
+            {
+                "info": "see normal mode 8 ",
+                "level": 76
+            },
+            {
+                "info": "blue, lightning, used to evolve corsican monster, also available in arena shop ",
+                "level": 8
+            }
+        ],
+        "name": "tesla trooper"
+    },
+    "the unknown actor": {
+        "info": [
+            {
+                "info": "see normal mode 16",
+                "level": 143
+            },
+            {
+                "info": "see normal mode 16 ",
+                "level": 78
+            },
+            {
+                "info": "blue, earth, used to evolve king of oil, also available in tavern shop ",
+                "level": 16
+            }
+        ],
+        "name": "the unknown actor"
+    },
+    "tutanamon": {
+        "info": [
+            {
+                "info": "blue, earth, will evolve with the use of iroi female ",
+                "level": 63
+            }
+        ],
+        "name": "tutanamon"
+    },
+    "uncle joe": {
+        "info": [
+            {
+                "info": "purple, water, will evolve with the use of mulan and fat.chill, used to evolve fat.chill, also available in tavern shop",
+                "level": 149
+            }
+        ],
+        "name": "uncle joe"
+    },
+    "uncrowned queen": {
+        "info": [
+            {
+                "info": "blue, water, will evolve with the use of middle class hero, also available in expedition shop ",
+                "level": 69
+            },
+            {
+                "info": "see elite mode 19",
+                "level": 109
+            }
+        ],
+        "name": "uncrowned queen"
+    },
+    "w.wallace": {
+        "info": [
+            {
+                "info": "see normal mode 15 ",
+                "level": 75
+            },
+            {
+                "info": "blue, order, used to evolve joan, also available in tavern shop ",
+                "level": 15
+            }
+        ],
+        "name": "w.wallace"
+    }
 }
