@@ -1,5 +1,5 @@
 var Arena = 
-[[bloody nero", "blue", "chaos", "100", "30", "no", "-", "-"],
+[["bloody nero", "blue", "chaos", "100", "30", "no", "-", "-"],
 ["king of oil", "blue", "earth", "100", "30", "yes", "the unknown actor", "-"],
 ["czarina", "blue", "earth", "100", "30", "no", "-", "-"],
 ["king Arthur", "blue", "fire", "100", "30", "yes", "dreamer martin", "-"],
@@ -17,7 +17,7 @@ var Expedition =
 ["middle class hero", "blue", "earth", "350", "30", "no", "-", "-"],
 ["alchemist", "blue", "earth", "350", "30", "no", "-", "-"],
 ["flying man", "blue", "fire", "350", "30", "no", "-", "-"],
-[""che"", "blue", "fire", "350", "30", "no", "-", "-"],
+["che", "blue", "fire", "350", "30", "no", "-", "-"],
 ["steam man", "blue", "fire", "350", "30", "no", "-", "-"],
 ["gali.gary", "blue", "fire", "350", "30", "no", "-", "-"],
 ["louise xxiv", "blue", "fire", "350", "30", "no", "-", "-"],
@@ -46,4 +46,4 @@ var Tavern =
 ["Archimedes", "blue", "water", "500", "30", "no", "-", "-"],
 ["shogun I", "blue", "water", "500", "30", "no", "-", "-"],
 ["Honest Abe", "Purple", "earth", "2000", "50", "yes", "uncrowned queen", "joan"],
-["Uncle Joe", "Purple", "water", "2000", "50", "yes", "mulan", "fat chill]]
+["Uncle Joe", "Purple", "water", "2000", "50", "yes", "mulan", "fat chill"]]
