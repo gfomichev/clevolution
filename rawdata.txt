@@ -1,0 +1,203 @@
+Normal Mode:
+
+1 - repairman - green, not used for much, and you will pass by him very early, I do not recommend farming
+
+2 - diver - another green you will pass by quickly
+
+3 - policeman - green
+
+4 - cowboy - green
+
+5 - sniper - green
+
+6 - tank - green
+
+7 - secret agent - green
+
+8 - tesla trooper - blue, lightning, used to evolve corsican monster, also available in arena shop
+
+9 - dreamer martin - blue, lightning, used to evolve king arthur, also available in arena shop
+
+10 - alchemist - blue, earth, used to evolve d.vixni, also available in expedition shop
+
+11 - black beard - blue, water, will evolve to purple with the use of drw
+
+12 - marco - blue, earth, used to evolve shinzo, also available in tavern shop
+
+13 - louise xxiv - blue, fire, used to evolve spartacus, also available in expedition shop
+
+14 - drw - blue, water, used to evolve black beard
+
+15 - w.wallace - blue, order, used to evolve joan, also available in tavern shop
+
+16 - the unkown actor - blue, earth, used to evolve king of oil, also available in tavern shop
+
+17 - fort - blue, lightning, will evolve with the use of bell iv
+
+18 - bear hunter - blue, earth, will evolve with the use of czarina
+
+19 - mr. ms - blue, water, will evolve with the use of archemedius
+
+20 - pfk - blue, fire, will evolve with the use of "che"
+
+21 - dr time - blue, lightning, will evolve with the use of aung sun suki
+
+22 - terrible laden - blue, chaos, will evolve with the use of desert fox
+
+23 - joan - blue, order, will evolve with the use of w.wallace
+
+24 - king of the huns - blue, chaos, will evolve with the use of bloody nero
+
+25 - clonebus - blue, water, will evolve with the use of maurya emperor, also available in arena shop
+
+26 - master blaster - blue, fire, will evolve with the use of flying man
+
+27 - shinzo - blue, water, will evolve with the use of marco
+
+28 - ra elementalist - blue, lightning, will evolve with the use of dugout doug
+
+29 - cannibal - blue, chaos, used to evolve jack
+
+30 - silent star - blue, lightning, will evolve with the use of bright wizard, also available in arena shop
+
+31 - tantitrus Benjamin - blue, lightning, will evolve with the use of dreamlover, also available in tavern shop
+
+32 - joan - see normal mode 23
+
+33 - corsican monster - blue, fire, will evolve with the use of tesla trooper
+
+34 - mahatma - blue, order, will evolve with the use of blessed teresa
+
+35 - king of oil - blue, earth, will evolve with the use of unknown actor, also available in arena shop
+
+36 - "che" - blue, fire, used to evolve PFK, also available in expedition shop
+
+37 - Spartacus - blue, fire, will evolve with the use of louise xxiv
+
+38 - mulan - blue, water, will evolve with the use of shogun i
+
+39 - clonebus - see normal mode 25
+
+40 - dugout doug - blue, lightning, used to evolve ra elementalist, also available in expedition shop
+
+41 - alchemist - see normal mode 10
+
+42 - bloody mary - blue, fire, will evolve with the use of steam man, also available in arena shop
+
+43 - gali.gary - blue, fire, used to evolve e.turing, also available in expedition shop
+
+44 - maurya emperor - blue, water, used to evolve clonebus, also available in the arena shop
+
+45 - middle class hero - blue, earth, used to evolve uncrowned queen, also available in expedition shop
+
+46 - terrible ivan - blue, chaos, used to evolve lucky charlie
+
+47 - blessed Teresa - blue, order, used to evolve mahatma
+
+48 - great peter - purple, earth, already evolved, can obtain blue fragments from expedition shop
+
+49 - d.vixni - purple, earth, already evolved, can obtain blue fragments from tavern shop
+
+50 - peace man - purple, order, will evolve with American bison, fat.chill, and joan
+
+Elite Mode(unlocks after beating normal mode, and level 100)
+
+1 - e.turing - blue, lightning, will evolve with the use of gali.gary
+
+2 - steam man - blue, fire, used to evolve bloody mary, also available in expedition shop
+
+3 - iori female - blue, earth, used to evolve tutanAmon, also available in tavern shop
+
+4 - archemedius - blue, water, used to evolve mr. ms, also available in tavern shop
+
+5 - lucky Charlie - blue, chaos, will evolve with the use of terrible ivan
+
+6 - ra elementalist - purple, lightning, already evolved, can obtain blue fragments in normal 28
+
+7 - king Arthur - blue, fire, will evolve with the use of dreamer martin, also available in arena shop
+
+8 - lee - blue, earth, will evolve with the use of master kung
+
+9 - shogun I - blue, water, used to evolve mulan, also available in tavern shop
+
+10 - jack - blue, chaos, will evolve with the use of cannibal
+
+11 - dreamer martin - see normal mode 9
+
+12 - little dipper - purple, fire, will evolve with the use of corsican monster and e.turing
+
+13 - tutanAmon - blue, earth, will evolve with the use of iroi female
+
+14 - nobunaga - blue, water, used to evolve great peter, also available in expedition shop
+
+15 - terrible laden - see normal mode 22
+
+16 - dreamlover - blue, lightning, used to evolve tanitrus Benjamin, also available in expedition shop
+
+17 - aung sun suki - blue, fire, used to evolve dr time, also available in tavern shop
+
+18 - king of oil - purple, earth, already evolved, can obtain blue fragments in normal mode 35, elite 33, and arena shop
+
+19 - uncrowned queen - blue, water, will evolve with the use of middle class hero, also available in expedition shop
+
+20 - king of the huns - see normal mode 24
+
+21 - bright wizard - blue, lightning, used to evolve silent star, also available in tavern shop
+
+22 - flying man - blue, fire, used to evolve master blaster, also available in expedition shop
+
+23 - czarina - blue, earth, used to evolve bear hunter, also available in arena shop
+
+24 - shinzo - purple, water, already evolved, can obtain blue fragments in normal mode 27
+
+25 - w.wallace - see normal mode 15
+
+26 - tesla trooper - see normal mode 8
+
+27 - "che" - see normal mode 36
+
+28 - the unkown actor - see normal mode 16
+
+29 - mr ms - see normal mode 19
+
+30 - fat.chill - purple, order, will evolve with the use of peace man and uncle joe
+
+31 - bell iv - blue, lightning, used to evolve fort, also available in tavern shop
+
+32 - luise xxiv - see normal mode 13
+
+33 - king of oil - see normal mode 35
+
+34 - master kung - blue, water, used to evolve lee, also available in expedition shop
+
+35 - desert fox - blue, chaos, used to evolve terrible laden, also available in tavern shop
+
+36 - catholic hero - purple, lightning, will evolve with the use of silent star and master blaster
+
+37 - pfk - see normal mode 20
+
+38 - alchemist - see normal mode 10
+
+39 - maurya emperor - see normal mode 44
+
+40 - blessed Teresa - see normal mode 47
+
+41 - dr time - see normal mode 21
+
+42 - cleopatra - purple, fire, will evolve with the use of pfk and king arthur, also available in arena shop
+
+43 - marco - see normal mode 12
+
+44 - blackbeard - see normal mode 11
+
+45 - bloody nero - blue, chaos, used to evolve kinf of the huns, also available in arena shop
+
+46 - fort - see normal mode 17
+
+47 - master blaster - see normal mode 26
+
+48 - honest abe - purple, earth, will evolve with the use of uncrowned queen and joan, also available in tavern shop
+
+49 - empress wu - purple, water, will evolve with the use of alexander and king of oil
+
+50 - Elizabeth - purple, order, will evolve with the use of mahatma and poet william
